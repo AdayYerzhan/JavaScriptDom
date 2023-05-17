@@ -3,14 +3,15 @@
 	"indent": 2,
 	"undef": true,
 	"quotmark": false,
-	"maxlen": 80,
+	"maxlen": 250,
 	"trailing": true,
 	"curly": true,
 	"strict": false,
 	"browser": true,
 	"devel": true,
 	"jquery": true,
-	"esversion": 6,
+	"esversion": 8,
 	"-W018":  true,
-	"-W097":  true
+	"-W097":  true,
+	"-W138": true
 }
